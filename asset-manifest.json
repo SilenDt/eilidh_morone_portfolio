@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/eilidh_morone_portfolio/static/css/main.71764305.css",
-    "main.js": "/eilidh_morone_portfolio/static/js/main.14cc85f5.js",
+    "main.css": "/eilidh_morone_portfolio/static/css/main.f25b4d4f.css",
+    "main.js": "/eilidh_morone_portfolio/static/js/main.e97129d6.js",
     "static/js/787.9a3a6e50.chunk.js": "/eilidh_morone_portfolio/static/js/787.9a3a6e50.chunk.js",
     "index.html": "/eilidh_morone_portfolio/index.html",
-    "main.71764305.css.map": "/eilidh_morone_portfolio/static/css/main.71764305.css.map",
-    "main.14cc85f5.js.map": "/eilidh_morone_portfolio/static/js/main.14cc85f5.js.map",
+    "main.f25b4d4f.css.map": "/eilidh_morone_portfolio/static/css/main.f25b4d4f.css.map",
+    "main.e97129d6.js.map": "/eilidh_morone_portfolio/static/js/main.e97129d6.js.map",
     "787.9a3a6e50.chunk.js.map": "/eilidh_morone_portfolio/static/js/787.9a3a6e50.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.71764305.css",
-    "static/js/main.14cc85f5.js"
+    "static/css/main.f25b4d4f.css",
+    "static/js/main.e97129d6.js"
   ]
 }
